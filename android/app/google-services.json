@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754411124548",
+    "project_id": "dusecatask-54028",
+    "storage_bucket": "dusecatask-54028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754411124548:android:52dcce4d7853e1441e8911",
+        "android_client_info": {
+          "package_name": "com.muhammadismail.duseca_task_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC20G8JJn5lgD4IBNkmN3eBdDlQdi-AmTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
